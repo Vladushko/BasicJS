@@ -26,8 +26,4 @@ let arrReverse = arr.reverse();
 
 let arrRevString = arrReverse.join('');
 
-// alert(arrReverse);
-// alert(typeof arrReverse);
-
 alert(arrRevString);
-// alert(typeof aarrRevString);
